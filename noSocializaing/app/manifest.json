@@ -27,8 +27,10 @@
     "keyword": "noSocializaing"
   },
   "permissions": [
+    "webRequest",
     "tabs",
     "http://*/*",
-    "https://*/*"
+    "https://*/*",
+    "webRequestBlocking"
   ]
 }
